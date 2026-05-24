@@ -4,6 +4,12 @@
 
 ## GitHub DSA -[DSA-Probelems](https://github.com/hemnath-kandasamyk/Data-Structures-and-Algorithms)
 
+## 23-05-2026
+
+1. Lc-946 - Validate Stack Sequences
+    - Topics: Stack
+    - Difficulty: Medium
+
 ## 24-05-2026
 
 1. LC-13 - Roman to Integer  
