@@ -10,6 +10,8 @@
     - Topics: Stack
     - Difficulty: Medium
 
+ ---  
+
 ## 24-05-2026
 
 1. LC-13 - Roman to Integer  
@@ -21,3 +23,13 @@
    - Difficulty: Medium  
 
 ---
+
+## 25-05-2026
+
+1. LC-561 - Array Partition
+ - Topic: Arrays, Greedy, Sorting
+ -  Difficulty: Easy
+
+2. LC-07 - Reverse Integer
+ - Topic: Math
+ - Difficulty: Medium
