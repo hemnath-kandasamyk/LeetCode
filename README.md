@@ -65,3 +65,13 @@
    * Difficulty: Easy
 
 ---
+
+## 30-05-2026
+
+1. LC-905 - Sort Array By Parity
+
+   * Topic: Arrays, Two Pointers
+   * Difficulty: Easy
+
+---
+
