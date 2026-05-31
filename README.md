@@ -75,3 +75,15 @@
 
 ---
 
+## 31-05-2026
+
+1. LC-2126 - Destroying Asteroids
+
+   * Topic: Greedy, Sorting, Array
+   * Difficulty: Medium
+
+2. LC-2368 - Reachable Nodes With Restrictions
+
+   * Topic: Graph, BFS, DFS, Tree
+   * Difficulty: Medium
+
