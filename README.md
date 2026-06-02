@@ -87,3 +87,19 @@
    * Topic: Graph, BFS, DFS, Tree
    * Difficulty: Medium
 
+---
+## 02-06-2026
+
+1. LC-1971 - Find if Path Exists in Graph
+
+   * Topic: Graph, BFS, DFS
+   * Difficulty: Easy
+
+2. LC-841 - Keys and Rooms
+
+   * Topic: Graph, BFS, DFS
+   * Difficulty: Medium
+
+---
+
+
