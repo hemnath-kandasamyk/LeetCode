@@ -101,5 +101,18 @@
    * Difficulty: Medium
 
 ---
+## 03-06-2026
+
+1. LC-802 - Find Eventual Safe States
+
+   * Topic: Graph, DFS, Cycle Detection, Directed Graph
+   * Difficulty: Medium
+
+2. LC-207 - Course Schedule
+
+   * Topic: Graph, DFS, Cycle Detection, Directed Graph
+   * Difficulty: Medium
+
+---
 
 
