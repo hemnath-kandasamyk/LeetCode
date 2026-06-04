@@ -114,5 +114,17 @@
    * Difficulty: Medium
 
 ---
+## 04-06-2026
 
+1. LC-547 - Number of Provinces
+
+   * Topic: Graph, DFS, Connected Components, Adjacency Matrix
+   * Difficulty: Medium
+
+2. LC-210 - Course Schedule II
+
+   * Topic: Graph, BFS, Topological Sort, Kahn's Algorithm
+   * Difficulty: Medium
+
+---
 
