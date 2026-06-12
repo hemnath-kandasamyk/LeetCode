@@ -128,3 +128,27 @@
 
 ---
 
+## 12-06-2026
+
+
+1. LC-209 - Minimum Size Subarray Sum
+
+   * Topic: Array, Sliding Window, Two Pointers
+   * Difficulty: Medium
+
+2. LC-1456 - Maximum Number of Vowels in a Substring of Given Length
+
+   * Topic: String, Sliding Window
+   * Difficulty: Medium
+
+3. LC-03 - Longest Substring Without Repeating Characters
+
+   * Topic: String, Sliding Window, Hash Table
+   * Difficulty: Medium
+
+---
+
+
+
+
+
