@@ -148,7 +148,23 @@
 
 ---
 
+# 13-06-2026 
 
+ 1. LC-1004 - Max Consecutive Ones III
 
+* Topic: Array, Sliding Window, Two Pointers
+* Difficulty: Medium
+---
 
+2. LC-1493 - Longest Subarray of 1's After Deleting One Element
+
+* Topic: Array, Sliding Window
+* Difficulty: Medium
+---
+
+3. LC-739 - Daily Temperatures
+
+* Topic: Array, Stack, Monotonic Stack
+* Difficulty: Medium
+---
 
